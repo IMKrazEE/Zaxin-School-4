@@ -1,0 +1,46 @@
+body{
+    text-align:center;
+}
+
+#home{
+    background: linear-gradient(white, skyblue);
+}
+
+#marqueeStyle{
+    background-color:dodgerblue;
+    font-size:20px;
+}
+
+#teecher{
+    width:350px;
+}
+
+#admission{
+    background: linear-gradient(white, indianred)
+    
+}
+
+#contact{
+    background: linear-gradient(white,plum)
+}
+
+#inside{
+    background-color:aliceblue;
+}
+
+
+.movie_text span {
+    color: #ff7700;
+}
+
+#plantation{
+    display: inline-block;
+    width: 500px;
+    font-size: 20; 
+}
+
+#lego{
+ display: inline-block;
+    width: 500px;
+    font-size: 20;   
+}
